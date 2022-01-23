@@ -1,5 +1,3 @@
-##plot width 900, height 700
-
 library(tmap)
 library(sf)
 library(rgdal)
